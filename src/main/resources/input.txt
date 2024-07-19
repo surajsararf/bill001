@@ -1,0 +1,6 @@
+Item:"Milk", Quantity: 2, Price: 1.50
+Item: "Bread", Quantity: 3, Price: 2.00
+Promotions:
+- Buy one get one free on Milk
+- 10% off on Bread if quantity > 2
+Tax: 5%
